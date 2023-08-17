@@ -1,0 +1,139 @@
+2023-08-17 11:43:28,566 - 0.163649 M parameters
+2023-08-17 11:43:28,566 - cuda
+2023-08-17 11:44:55,552 - 0.163649 M parameters
+2023-08-17 11:44:55,552 - cuda
+2023-08-17 11:48:20,791 - 0.163649 M parameters
+2023-08-17 11:48:20,791 - cuda
+2023-08-17 11:48:22,203 - step 0: train loss 4.3631, val loss 4.3651
+2023-08-17 11:48:24,563 - step 100: train loss 2.6447, val loss 2.6599
+2023-08-17 11:48:26,451 - step 200: train loss 2.5419, val loss 2.5420
+2023-08-17 11:48:28,394 - step 300: train loss 2.4775, val loss 2.4808
+2023-08-17 11:48:30,282 - step 400: train loss 2.4135, val loss 2.4199
+2023-08-17 11:48:32,186 - step 500: train loss 2.3685, val loss 2.3780
+2023-08-17 11:48:34,112 - step 600: train loss 2.3334, val loss 2.3357
+2023-08-17 11:48:36,031 - step 700: train loss 2.3015, val loss 2.3192
+2023-08-17 11:48:37,943 - step 800: train loss 2.2723, val loss 2.2899
+2023-08-17 11:48:39,843 - step 900: train loss 2.2651, val loss 2.2801
+2023-08-17 11:48:41,760 - step 1000: train loss 2.2365, val loss 2.2682
+2023-08-17 11:48:43,720 - step 1100: train loss 2.2189, val loss 2.2519
+2023-08-17 11:48:45,629 - step 1200: train loss 2.1979, val loss 2.2312
+2023-08-17 11:48:47,533 - step 1300: train loss 2.1695, val loss 2.1984
+2023-08-17 11:48:49,457 - step 1400: train loss 2.1499, val loss 2.2002
+2023-08-17 11:48:51,403 - step 1500: train loss 2.1299, val loss 2.1706
+2023-08-17 11:48:53,319 - step 1600: train loss 2.1110, val loss 2.1572
+2023-08-17 11:48:55,206 - step 1700: train loss 2.0866, val loss 2.1332
+2023-08-17 11:48:57,101 - step 1800: train loss 2.0651, val loss 2.1099
+2023-08-17 11:48:59,429 - step 1900: train loss 2.0531, val loss 2.0998
+2023-08-17 11:49:01,695 - step 2000: train loss 2.0239, val loss 2.0959
+2023-08-17 11:49:03,618 - step 2100: train loss 2.0105, val loss 2.0893
+2023-08-17 11:49:05,617 - step 2200: train loss 2.0018, val loss 2.0783
+2023-08-17 11:49:07,640 - step 2300: train loss 1.9917, val loss 2.0631
+2023-08-17 11:49:09,623 - step 2400: train loss 1.9658, val loss 2.0571
+2023-08-17 11:49:11,551 - step 2500: train loss 1.9477, val loss 2.0348
+2023-08-17 11:49:13,477 - step 2600: train loss 1.9318, val loss 2.0225
+2023-08-17 11:49:15,485 - step 2700: train loss 1.9186, val loss 2.0124
+2023-08-17 11:49:17,429 - step 2800: train loss 1.9226, val loss 2.0199
+2023-08-17 11:49:19,351 - step 2900: train loss 1.9053, val loss 1.9921
+2023-08-17 11:49:21,361 - step 3000: train loss 1.8864, val loss 1.9903
+2023-08-17 11:49:23,409 - step 3100: train loss 1.8718, val loss 1.9809
+2023-08-17 11:49:25,428 - step 3200: train loss 1.8689, val loss 1.9802
+2023-08-17 11:49:27,339 - step 3300: train loss 1.8627, val loss 1.9682
+2023-08-17 11:49:29,296 - step 3400: train loss 1.8538, val loss 1.9595
+2023-08-17 11:49:31,245 - step 3500: train loss 1.8457, val loss 1.9531
+2023-08-17 11:49:33,141 - step 3600: train loss 1.8238, val loss 1.9525
+2023-08-17 11:49:35,130 - step 3700: train loss 1.8223, val loss 1.9690
+2023-08-17 11:49:37,082 - step 3800: train loss 1.8138, val loss 1.9430
+2023-08-17 11:49:39,016 - step 3900: train loss 1.8224, val loss 1.9470
+2023-08-17 11:49:41,025 - step 4000: train loss 1.8083, val loss 1.9414
+2023-08-17 11:49:42,985 - step 4100: train loss 1.7981, val loss 1.9499
+2023-08-17 11:49:44,903 - step 4200: train loss 1.8079, val loss 1.9646
+2023-08-17 11:49:46,847 - step 4300: train loss 1.7884, val loss 1.9252
+2023-08-17 11:49:48,835 - step 4400: train loss 1.7768, val loss 1.9317
+2023-08-17 11:49:50,856 - step 4500: train loss 1.7736, val loss 1.9231
+2023-08-17 11:49:52,816 - step 4600: train loss 1.7742, val loss 1.9208
+2023-08-17 11:49:54,821 - step 4700: train loss 1.7607, val loss 1.9200
+2023-08-17 11:49:56,872 - step 4800: train loss 1.7563, val loss 1.9064
+2023-08-17 11:49:58,797 - step 4900: train loss 1.7625, val loss 1.9116
+2023-08-17 11:50:01,186 - step 4999: train loss 1.7469, val loss 1.8963
+2023-08-17 11:50:07,724 - 
+
+Yet befordince? and is so be madisel boad toe.
+Stir, I let gateous art thy purqore to bard:
+Ard ane away, my fearst, wizolo heavens
+Moof is heart milk dink, and is enten, in latistly; ovet San.
+
+Will man is wany!
+
+AUrs First Selixer on him sprave aisst,
+why hell nee normore elives
+Morthy would that
+To Windon her evicklo's them, His happy,
+Well poort: like sume kindnent firf sor; if his shall is flectations
+Marrk, I hom.
+
+HENRLIO:
+Prood is wards. With Eapt my dist suposar?
+
+Sover:
+My have for his neet soon mary.
+You contranthm so, toe his me? what the men.
+
+CORIOLAO:
+Be he wilt well of this scous sometss
+Decasous. AnEiar we lackings.
+
+Lurd:
+Telp, move Laid Cansce outh ink in throw
+Of Humself the gRift, say, comold give;
+I sugan in Macce, soxet to dank beak
+That frovEr
+As all To giffoum, necieve so lack.
+
+MERIONET:
+Welcish, if I shark poiven'd.
+
+Prie?
+ForselLIUS:
+You undet orn I cee suban wip you ou with than the must this molbkle of so hat trear, it watch time to tee, for Gly, know our hert;
+By thou hafFoirs Quely face. She lock in the priveisanoun,
+On backiors, and men, meselveings and eart
+Singble, fet I them Wern would, chis borrage!
+
+BUCKE VINCE:
+
+Let the call an it toan Pinke it blave a celible, Reirgelf men the shall eart I, in thas sticky's lesting tas unle;
+As there'd life ead just the sount.
+
+Khas OUSERK:
+That, he is is still belot you theell, you be have begrve
+To cannnece, Ret that lave. I let not queen the numborm Thriesten me thelpieved sove you,
+But rangelets eleaves; sir!
+
+BENELO:
+I come, say, as If her ding a-father my suppproveted;
+Let seell, howse are gentlecy preike ham know you
+for thy is
+'erved seems rished are lights. A give, fet courman,
+Mindorastion; I'll hearth; carlay not,
+There wifll this father
+That I give! with amonge,
+As latea hatust the sent.
+
+BUCKIBHNar:
+Brow'd see honer yet life?
+
+CLES'V:
+What is a for would think fannce would prozot!
+No, and, angrown what well, salk,
+Tis PRipardien:
+In in shoul'd fioun his supposion.
+
+Menioura,
+Marr
+2023-08-17 11:50:07,724 - Execution time: 1.80 minutes
+2023-08-17 11:50:07,725 - Memory used: 1792.68 MB
+2023-08-17 11:50:07,725 - CPU percent: 0.0%
+2023-08-17 11:50:07,725 - GPU used: NVIDIA GeForce GTX 1050
+2023-08-17 11:50:07,725 - GPU memory allocated: 18.91 MB
+2023-08-17 11:50:07,726 - GPU memory cached: 36.00 MB
+2023-08-17 11:50:07,726 - Model size: 0.62 MB
